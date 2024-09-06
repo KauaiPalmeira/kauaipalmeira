@@ -21,6 +21,7 @@
 <span> <img src+"[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kauaipalmeira@gmail.com)"> </span> 
 
 </div>
+<div> 
 <h3> Tecnologias (Linguagens, Bibliotecas, Frameworks, Nuvens e Bancos de Dados) que trabalho: </h3>
 <span> <img src+"![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"> </span>
 <span> <img src+"![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"> </span>
@@ -34,6 +35,5 @@
 <span> <img src+"">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) </span>
 <span> <img src+"![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)"> </span>
 <span> <img src+"![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)"> </span>
-<div> 
 
 </div>
