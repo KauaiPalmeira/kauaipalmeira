@@ -15,7 +15,7 @@
 
 <div> 
 <h2> Você também pode me encontrar </h2>
-<span> <img src+"[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauai-palmeira-826126307/)"> </span>
+<span> <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauai-palmeira-826126307/)"> </span>
 <span> <img src+"[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+85+989300276)"> </span>
 <span> <img src+"[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kauaipalmeira@hotmail.com)"> </span>
 <span> <img src+"[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kauaipalmeira@gmail.com)"> </span> 
