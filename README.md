@@ -26,7 +26,7 @@
     </a>
   </span>
   <span>
-    <a href="https://wa.me/55+85+989300276">
+    <a href="https://wa.me/+5585989300276">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
   </span>
