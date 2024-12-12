@@ -8,7 +8,7 @@
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=kauaipalmeira&show_icons=true&theme=dark" height="150rem" style="margin-right:4rem;">
 </div>
-
+<!-- 
 <div>
   <h2><strong>Aqui você pode encontrar meus projetos mais relevantes</strong></h2>
   <span>
@@ -17,6 +17,7 @@
     </a>
   </span>
 </div>
+ -->
 
 <div>
   <h2>Você também pode me encontrar</h2>
