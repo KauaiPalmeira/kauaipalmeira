@@ -1,7 +1,7 @@
 <h1>Olá</h1>
 
 <div>
-  <strong>Eu me chamo Kauai, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Aqui no meu Github você provavelmente encontrará alguns dos meus projetos pessoais e trabalhos acadêmicos.</strong>
+  <strong>Eu me chamo Kauai, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Aqui no meu Github você provavelmente encontrará alguns dos meus projetos pessoais e trabalhos acadêmicos.</strong>
 </div>
 <br>
 
