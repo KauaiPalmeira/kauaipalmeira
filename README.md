@@ -36,11 +36,6 @@
       <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
     </a>
   </span>
-  <span>
-    <a href="mailto:kauaipalmeira@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-    </a>
-  </span>
 </div>
 
 <div>
